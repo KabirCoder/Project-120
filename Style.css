@@ -1,0 +1,12 @@
+.copy_right_footer{
+    font-size: 28px;
+    position:fixed;
+    bottom:0;
+    color:whitesmoke;
+    background-color:rgb(72, 5, 83);
+    text-align:center;
+    line-height:3;
+    box-shadow: 1px 0px 20px 11px rgb(2, 11, 59);
+    width:100%;
+    font-family:Garamond;
+}
